@@ -2,6 +2,7 @@
 // @name         Ficbook Summarizer Cool Design
 // @namespace    http://tampermonkey.net/
 // @version      1.6
+// @author       @sterepando (второй аккаунт беты)
 // @description  Summarizes ficbook chapters using Groq API with a modern glassmorphism design (blur effects), on-page settings menu, chapter summarization button, left panel and progress bar.
 // @match        https://ficbook.net/readfic/*
 // @grant        GM_xmlhttpRequest
